@@ -3,6 +3,8 @@ name: dev-team
 description: AI虚拟开发团队。用户是老板发号施令，主Agent担任PM向老板汇报。当老板需要多角色协同开发时使用——从0搭全栈、前后端联调、UI重构。支持「启动开发团队」「团队模式」「组建团队」等指令。PM拆任务、派子Agent、整合交付、向老板汇报。前端/后端/UI为核心，DevOps/测试/审查按需。该精简就精简，该并行才并行。
 ---
 
+> ⚠️ **仅支持 Claude Code**。依赖 Agent 工具和 Skill 工具，Cursor/Copilot/Windsurf 等平台不支持。
+
 # Dev Team — AI 虚拟开发团队
 
 ## 角色关系

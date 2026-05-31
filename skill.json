@@ -22,7 +22,6 @@
     "chinese"
   ],
   "platforms": [
-    "claude",
     "claude-code"
   ],
   "category": "workflow",

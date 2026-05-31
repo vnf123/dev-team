@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
-  <img src="https://img.shields.io/badge/Claude%20Code-Skill-6C4DFF" alt="Claude Code Skill">
+  <img src="https://img.shields.io/badge/Claude%20Code-ONLY-6C4DFF" alt="Claude Code Only">
   <img src="https://img.shields.io/badge/version-1.0.0-green.svg" alt="Version">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
 </p>
@@ -11,6 +11,18 @@
   <b>老板发号施令 · PM 智能调度 · 多角色 AI Agent 并行协作</b><br>
   模拟真实软件团队的 AI 工作流 —— 你当老板，AI 当团队
 </p>
+
+---
+
+## ⚠️ 平台支持：仅 Claude Code
+
+> **这个 Skill 只支持 Claude Code**（CLI / VS Code 扩展 / JetBrains 扩展）
+
+不支持 Cursor、Windsurf、GitHub Copilot、Codex、Kiro、Trae 或其他 AI 编辑器。
+
+**原因**：本 Skill 的核心功能（派生子 Agent、角色分工、并行调度）依赖 Claude Code 独有的 **Agent 工具** 和 **Skill 工具**。其他平台的 Agent 系统尚不支持这些能力。
+
+如果把角色提示词模板单独拿出来，在其他平台当作系统指令倒是能用（降级模式）。
 
 ---
 
@@ -74,7 +86,7 @@ cp -r dev-team/.claude/skills/dev-team 你的项目/.claude/skills/
 npx skills add vnf123/dev-team@dev-team -g
 ```
 
-> 一行命令，自动安装到 Claude Code。也支持 Codex、Cursor、Windsurf 等 20+ AI 编辑器。
+> 一行命令，自动安装到 Claude Code。
 
 安装后**重启 Claude Code** 即可生效。
 
