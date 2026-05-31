@@ -2,7 +2,7 @@
   "name": "dev-team",
   "displayName": "Dev Team — AI 虚拟开发团队",
   "description": "模拟真实软件团队的 AI 协作模式。用户是老板发号施令，AI 担任 PM 调度子 Agent（UI/UX、前端、后端、DevOps、QA、Reviewer），各司其职，PM 统一整合并向老板汇报。支持并行/串行智能调度和 Token 精简策略。",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "vnf123",
   "license": "MIT",
   "homepage": "https://github.com/vnf123/dev-team",

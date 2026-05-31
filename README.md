@@ -3,7 +3,7 @@
 
 <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" alt="License">
 <img src="https://img.shields.io/badge/Claude%20Code-ONLY-6C4DFF?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code Only">
-<img src="https://img.shields.io/badge/version-1.0.0-green?style=for-the-badge" alt="Version">
+<img src="https://img.shields.io/badge/version-1.0.1-green?style=for-the-badge" alt="Version">
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge" alt="PRs Welcome">
 
 <br><br>
