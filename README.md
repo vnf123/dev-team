@@ -68,11 +68,13 @@ cp -r dev-team/.claude/skills/dev-team ~/.claude/skills/
 cp -r dev-team/.claude/skills/dev-team 你的项目/.claude/skills/
 ```
 
-### 方式二：通过 npx skills（即将上线）
+### 方式二：通过 npx skills（推荐）
 
 ```bash
 npx skills add vnf123/dev-team@dev-team -g
 ```
+
+> 一行命令，自动安装到 Claude Code。也支持 Codex、Cursor、Windsurf 等 20+ AI 编辑器。
 
 安装后**重启 Claude Code** 即可生效。
 
