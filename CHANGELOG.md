@@ -2,6 +2,16 @@
 
 本文件记录 dev-team skill 的所有重要变更。
 
+## [1.1.0-beta.1] - 2026-06-01
+
+### 🧪 Beta
+
+- 调整为**手动触发低 Token 版**：仅当用户明确说“启动开发团队”“团队模式”“组建团队”“用 dev-team”或同义指令时使用。
+- 缩短 `SKILL.md` frontmatter description，降低常驻 token 占用，并明确禁止因复杂/全栈/UI/前后端任务自行触发。
+- 精简 `SKILL.md` 正文：移除冗长角色模板，保留触发边界、调度上限、短派发模板和汇报格式。
+- 默认调度更保守：优先 PM 自己做，常规团队模式最多 2 个 Agent，3+ Agent 需要说明成本并确认。
+- 同步 README 和 `skill.json`，标注 beta 版行为差异与推荐指令。
+
 ## [1.0.1] - 2025-05-31
 
 ### 📚 Documentation
@@ -26,4 +36,6 @@
 - 📋 汇报格式：任务摘要 + 投入角色 + 产出文件 + 关键决策
 - 🔌 集成 15+ 优质社区 Skill
 
+[1.1.0-beta.1]: https://github.com/vnf123/dev-team/releases/tag/v1.1.0-beta.1
+[1.0.1]: https://github.com/vnf123/dev-team/releases/tag/v1.0.1
 [1.0.0]: https://github.com/vnf123/dev-team/releases/tag/v1.0.0
