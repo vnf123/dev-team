@@ -4,7 +4,7 @@
   "description": "手动触发的 AI 虚拟开发团队。仅当用户明确说启动开发团队、团队模式、组建团队或用 dev-team 时启用；默认不因复杂/全栈任务自动触发。AI 担任 PM，以最少必要子 Agent（UI/UX、前端、后端、DevOps、QA、Reviewer）完成分工、整合和汇报，减少误触发与 Token 消耗。",
   "version": "1.1.0-beta.1",
   "author": "vnf123",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "homepage": "https://github.com/vnf123/dev-team",
   "repository": "https://github.com/vnf123/dev-team.git",
   "keywords": [

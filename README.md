@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" alt="License">
+<img src="https://img.shields.io/badge/license-GPL--3.0-blue?style=for-the-badge" alt="License">
 <img src="https://img.shields.io/badge/Claude%20Code-ONLY-6C4DFF?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code Only">
 <img src="https://img.shields.io/badge/version-1.1.0--beta.1-orange?style=for-the-badge" alt="Version">
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge" alt="PRs Welcome">
@@ -482,7 +482,7 @@ dev-team/
 ## 📄 许可
 
 <p align="center">
-  MIT License · © 2025 <a href="https://github.com/vnf123">vnf123</a>
+  GPL-3.0 License · © 2025 <a href="https://github.com/vnf123">vnf123</a>
 </p>
 
 ---
